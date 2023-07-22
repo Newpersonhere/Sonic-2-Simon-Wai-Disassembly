@@ -4,22 +4,22 @@
 ; Alright, time for some info...
 ; Internally, the zone order goes like this:
 ; 00 - Green Hill
-; 01 - Zone 01 (UNUSED)
+; 01 - Zone 01 
 ; 02 - Wood
-; 03 - Zone 03 (UNUSED)
+; 03 - Zone 03 
 ; 04 - Metropolis
 ; 05 - Metropolis Act 3
-; 06 - Zone 06 (UNUSED)
+; 06 - Zone 06 
 ; 07 - Hill Top
 ; 08 - Hidden Palace
-; 09 - Zone 09 (UNUSED)
+; 09 - Zone 09 
 ; 0A - Oil Ocean
 ; 0B - Dust Hill
 ; 0C - Casino Night
 ; 0D - Chemical Plant
-; 0E - Genocide City (EMPTY)
+; 0E - Genocide City 
 ; 0F - Neo Green Hill
-; 10 - Death Egg (EMPTY)
+; 10 - Death Egg 
 ; Going off the concept art, the unused zone IDs would've been for Ocean Wind, Sand Shower,
 ; Blue Lake/Blue Ocean, and Rock World, so they will be referred to as such here
 ;
